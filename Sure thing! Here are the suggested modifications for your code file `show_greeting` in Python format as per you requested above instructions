@@ -1,0 +1,4 @@
+# show_greeting.py (modified)
+import sys
+def greeting(name):   # renamed function to be more casual and less cluttered, also added a space after 'Hey' for better readability if needed in future updates or changes by the user/developer 
+    print("Hey " + name)     # Added spaces between words as per best practices. If there is no need then can remove these lines too depending on your preference and requirements of code style guide  
